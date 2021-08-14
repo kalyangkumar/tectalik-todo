@@ -8,7 +8,7 @@
         gradient="to top right, rgba(19,84,122,.5), rgba(128,208,199,.8)"
       >
         <v-avatar size="70" class="mb-2">
-          <img src="https://cdn.vuetifyjs.com/images/john.jpg" alt="John" />
+          <img src="kalyan1.jpg" alt="kalyan" />
         </v-avatar>
         <div class="text-subtitle-1 white--text font-weight-bold">
           Kalyan Kumar
